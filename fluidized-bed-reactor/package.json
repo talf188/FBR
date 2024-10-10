@@ -2,7 +2,7 @@
   "name": "fluidized-bed-reactor",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/talf188/FBR",
+  "homepage": "https://talf188.github.io/fluidized-bed-reactor/",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
